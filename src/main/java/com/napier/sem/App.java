@@ -35,7 +35,6 @@ public class App {
             }
         }
     }
-
     public void disconnect() {
         if (con != null) {
             try {

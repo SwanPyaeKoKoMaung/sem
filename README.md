@@ -11,3 +11,4 @@ Read Me Daddy
 Read Again on APP
 asdf
 JOKER
+[![codecov](https://codecov.io/gh/SwanPyaeKoKoMaung/sem/graph/badge.svg?token=ICI8KG0UEK)](https://codecov.io/gh/SwanPyaeKoKoMaung/sem)
